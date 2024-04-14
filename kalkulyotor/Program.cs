@@ -4,7 +4,7 @@ do
     Console.Write("Parolni kiriting: ");
     password = Console.ReadLine();
 
-} while (password != "thebude");
+} while (password != "Thebude");
 
 
 Console.WriteLine("Assalomu allaykum men kalkulyator dasturiman.\nMenga uzingizni tanishtirng");
